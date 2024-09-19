@@ -1,6 +1,7 @@
 import astropy.io.fits as fits
 import matplotlib.pyplot as plt
 import numpy as np
+#This is a comment
 
 def plot_dynamic_spectrum(fits_file, output_png=None):
     """
