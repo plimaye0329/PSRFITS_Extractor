@@ -18,8 +18,8 @@ from scipy.interpolate import make_interp_spline
 import os
 import warnings
 import math
-#A final comment
-
+#A okay final comment
+ 
 def sigread(filepath, dm):
     """
     Reads a .fil file and returns the dedispersed data.
